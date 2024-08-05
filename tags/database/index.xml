@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Alisson Naimayer</title>
+    <link>https://example.com/tags/database/</link>
+    <description>Recent content in Database on Alisson Naimayer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Additional information</title>
+      <link>https://example.com/post/additional-information/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/additional-information/</guid>
+      <description>Programming skills Backend PHP Laravel Javascript / jQuery Python Golang Frontend VueJS Angular HTML CSS (Bootstrap / Materialize) Database MySQL MariaDB PostgreSQL Languages English - Fluent French - Intermediate Portuguese - Native </description>
+    </item>
+    
+  </channel>
+</rss>
