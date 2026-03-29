@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alisson Naimayer - Portfolio</title>
+    <link>https://aler93.github.io/en/</link>
+    <description>Recent content on Alisson Naimayer - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://aler93.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://aler93.github.io/en/sobre/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://aler93.github.io/en/sobre/</guid>
+      
+        <description>&lt;p&gt;Software engineer available for remote or hybrid work.&lt;/p&gt;
+&lt;p&gt;I focus on optimizing processes, building innovative solutions, and improving the user experience of systems, making them more intuitive and accessible for end users. I value teamwork and actively seek to foster a culture of cooperation and open communication, sharing knowledge and continuously learning new techniques.&lt;/p&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Backend&lt;/th&gt;
+          &lt;th&gt;Frontend&lt;/th&gt;
+          &lt;th&gt;Database&lt;/th&gt;
+          &lt;th&gt;Infrastructure&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PHP · Laravel&lt;/td&gt;
+          &lt;td&gt;Vue 3&lt;/td&gt;
+          &lt;td&gt;PostgreSQL&lt;/td&gt;
+          &lt;td&gt;Docker&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Golang&lt;/td&gt;
+          &lt;td&gt;Angular&lt;/td&gt;
+          &lt;td&gt;MySQL&lt;/td&gt;
+          &lt;td&gt;WebSocket&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://aler93.github.io/en/contato/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://aler93.github.io/en/contato/</guid>
+      
+        <description>&lt;p&gt;Feel free to reach out about projects, opportunities, or collaborations. You can find me through any of the channels below.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;mailto:anaimayer3@gmail.com&#34;&gt;anaimayer3@gmail.com&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/aler93&#34;&gt;github.com/aler93&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/alisson-naimayer-b57447b1&#34;&gt;linkedin.com/in/alisson-naimayer-b57447b1&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Instagram&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.instagram.com/alisson.nmr/&#34;&gt;instagram.com/alisson.nmr&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://aler93.github.io/en/projetos/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://aler93.github.io/en/projetos/</guid>
+      
+        <description>&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;h3 id=&#34;essentia-technologies&#34;&gt;Essentia Technologies&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Fullstack Developer&lt;/strong&gt; · November 2025 – March 2026&lt;/p&gt;
+&lt;p&gt;Development of internal systems using NodeJS and Angular.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Inventory Control&lt;/strong&gt; — tool for managing stock, suppliers and service orders, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenAPI Documentation&lt;/strong&gt; — documenting API requests and responses in NodeJS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cd2-retail-tech&#34;&gt;CD2 Retail Tech&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt; · December 2024 – November 2025&lt;/p&gt;
+&lt;p&gt;Development of PHP/Laravel and Javascript projects for retail clients. Internal documentation management via Wordpress with custom plugins to automate processes and simplify updates. Team support for tool adoption and learning.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

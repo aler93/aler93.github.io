@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alisson Naimayer - Portfolio</title>
-    <link>https://aler93.github.io/tags/</link>
+    <link>https://aler93.github.io/en/tags/</link>
     <description>Recent content in Tags on Alisson Naimayer - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language><atom:link href="https://aler93.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://aler93.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
